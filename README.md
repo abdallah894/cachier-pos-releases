@@ -1,1 +1,1 @@
-# cachier-pos-releases
+Installers for Cachier POS
